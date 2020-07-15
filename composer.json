@@ -227,17 +227,18 @@
     "wpackagist-plugin/custom-post-type-ui": "*",
     "wpackagist-plugin/duplicate-post": "*",
     "wpackagist-plugin/google-sitemap-generator": "*",
+    "wpackagist-plugin/instagram-feed": "*",
     "wpackagist-plugin/intuitive-custom-post-order": "*",
     "wpackagist-plugin/loginizer": "*",
     "wpackagist-plugin/mw-wp-form": "*",
     "wpackagist-plugin/my-calendar": "*",
+    "wpackagist-plugin/seo-simple-pack": "*",
     "wpackagist-plugin/tablepress": "*",
     "wpackagist-plugin/wordpress-importer": "*",
     "wpackagist-plugin/wp-dashboard-notes": "*",
     "wpackagist-plugin/wp-mail-smtp": "*",
     "wpackagist-plugin/wp-multibyte-patch": "*",
-    "wpackagist-plugin/wp-fastest-cache": "*",
-    "wpackagist-plugin/instagram-feed": "*"
+    "wpackagist-plugin/wp-fastest-cache": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5.4",
